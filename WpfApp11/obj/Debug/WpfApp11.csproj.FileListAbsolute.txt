@@ -1,0 +1,159 @@
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe.config
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.pdb
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.dll
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.xml
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csprojAssemblyReference.cache
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\obj\Debug\MainWindow.baml
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.g.resources
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.Properties.Resources.resources
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.GenerateResource.cache
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CoreCompileInputs.cache
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CopyComplete
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.exe
+C:\Users\PC-Yasha\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.pdb
+D:\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe.config
+D:\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe
+D:\WpfApp11\WpfApp11\bin\Debug\WpfApp11.pdb
+D:\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.dll
+D:\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.xml
+D:\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csprojAssemblyReference.cache
+D:\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+D:\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+D:\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+D:\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref
+D:\WpfApp11\WpfApp11\obj\Debug\MainWindow.baml
+D:\WpfApp11\WpfApp11\obj\Debug\WpfApp11.g.resources
+D:\WpfApp11\WpfApp11\obj\Debug\WpfApp11.Properties.Resources.resources
+D:\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.GenerateResource.cache
+D:\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CoreCompileInputs.cache
+D:\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CopyComplete
+D:\WpfApp11\WpfApp11\obj\Debug\WpfApp11.exe
+D:\WpfApp11\WpfApp11\obj\Debug\WpfApp11.pdb
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe.config
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\bin\Debug\WpfApp11.pdb
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\bin\Debug\MySql.Data.dll
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.dll
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.xml
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csprojResolveAssemblyReference.cache
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\obj\Debug\MainWindow.baml
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.g.resources
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.Properties.Resources.resources
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.GenerateResource.Cache
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CoreCompileInputs.cache
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.exe
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.pdb
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe.config
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\bin\Debug\WpfApp11.pdb
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.dll
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.xml
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csprojAssemblyReference.cache
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\obj\Debug\MainWindow.baml
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.g.resources
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.Properties.Resources.resources
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.GenerateResource.cache
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CoreCompileInputs.cache
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CopyComplete
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.exe
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11.pdb
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11_Content.g.cs
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\bin\Debug\picture\config.mp3
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\bin\Debug\picture\config.mp3
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe.config
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\bin\Debug\WpfApp11.pdb
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.dll
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.xml
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csprojAssemblyReference.cache
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\obj\Debug\WpfApp11_Content.g.cs
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\obj\Debug\MainWindow.baml
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\obj\Debug\WpfApp11.g.resources
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\obj\Debug\WpfApp11.Properties.Resources.resources
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.GenerateResource.cache
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CoreCompileInputs.cache
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CopyComplete
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\obj\Debug\WpfApp11.exe
+C:\Users\PC-Yasha\Desktop\Новая папка (4)\WpfApp11\WpfApp11\obj\Debug\WpfApp11.pdb
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\bin\Debug\picture\config.mp3
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe.config
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\bin\Debug\WpfApp11.pdb
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.dll
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.xml
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csprojResolveAssemblyReference.cache
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\obj\Debug\WpfApp11_Content.g.cs
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\obj\Debug\MainWindow.baml
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\obj\Debug\WpfApp11.g.resources
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\obj\Debug\WpfApp11.Properties.Resources.resources
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.GenerateResource.Cache
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CoreCompileInputs.cache
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\obj\Debug\WpfApp11.exe
+C:\Users\one.admin-ПК\Desktop\1\WpfApp11\WpfApp11\obj\Debug\WpfApp11.pdb
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\bin\Debug\picture\config.mp3
+C:\Users\PC-Yasha\Desktop\WpfApp11\WpfApp11\obj\Debug\WpfApp11_Content.g.cs
+C:\Users\one.admin-ПК\Desktop\WpfApp11\WpfApp11\bin\Debug\picture\21.mp3
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csprojResolveAssemblyReference.cache
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\obj\Debug\WpfApp11_Content.g.cs
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\obj\Debug\WpfApp11.exe
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\obj\Debug\WpfApp11.pdb
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\bin\Debug\picture\21.mp3
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\bin\Debug\picture\config.mp3
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.dll
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.xml
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\obj\Debug\MainWindow.baml
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\obj\Debug\WpfApp11.g.resources
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\obj\Debug\WpfApp11.Properties.Resources.resources
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.GenerateResource.Cache
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CoreCompileInputs.cache
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe.config
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\bin\Debug\WpfApp11.pdb
+C:\Users\one.admin-ПК\Desktop\исходная\WpfApp11\WpfApp11\bin\Debug\picture\13.mp3
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\bin\Debug\picture\13.mp3
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\bin\Debug\picture\21.mp3
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\bin\Debug\picture\config.mp3
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe.config
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\bin\Debug\WpfApp11.pdb
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.dll
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\bin\Debug\WpfAnimatedGif.xml
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csprojAssemblyReference.cache
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\obj\Debug\WpfApp11_Content.g.cs
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\obj\Debug\MainWindow.baml
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\obj\Debug\WpfApp11.g.resources
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\obj\Debug\WpfApp11.Properties.Resources.resources
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.GenerateResource.cache
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CoreCompileInputs.cache
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CopyComplete
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\obj\Debug\WpfApp11.exe
+C:\Users\PC-Yasha\Desktop\228\WpfApp11\WpfApp11\obj\Debug\WpfApp11.pdb
